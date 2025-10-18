@@ -5,3 +5,7 @@ SST related bugs fixed:https://github.com/DavidAnderegg/adflow/pull/12
 SST primary updates:https://github.com/mdolab/adflow/pull/331
 SST latest version:https://github.com/DavidAnderegg/adflow/tree/SST_new
 ```
+Runscript illustration (maybe helpful?):
+```
+TODO
+```
