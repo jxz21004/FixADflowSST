@@ -8,6 +8,7 @@ import argparse
 import time
 from mpi4py import MPI
 from baseclasses import AeroProblem
+# Note: I renamed David's adflow SST2003_LM2009 branch to be adflow_sst
 from adflow_sst import ADFLOW
 from multipoint import multiPointSparse
 from collections import OrderedDict
