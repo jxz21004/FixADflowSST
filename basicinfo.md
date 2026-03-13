@@ -9,6 +9,7 @@ Note: SST_new branch has some bugs when compiling (it seems that some files have
 ```
 Runscript illustration (maybe helpful?):
 ```
-RAE2822: (classic transonic condition) It's very easy to converge for SA model, but hard to converge for SST model for now.
+RAE2822: (classic transonic condition) It's very easy to converge for SA model, but hard to converge for SST model (2003 version) for now.
+Note that it can converge when "use2003SST" is False.
 TODO
 ```
